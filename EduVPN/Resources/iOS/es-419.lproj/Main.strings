@@ -1,21 +1,21 @@
 
 /* Class = "UILabel"; text = "Title"; ObjectID = "0Ga-3K-NHd"; */
-"0Ga-3K-NHd.text" = "Title";
+"0Ga-3K-NHd.text" = "Título";
 
 /* Class = "UILabel"; text = "Status detail"; ObjectID = "37x-Tc-jAN"; */
-"37x-Tc-jAN.text" = "Status detail";
+"37x-Tc-jAN.text" = "Detalle de estado";
 
 /* Class = "UITableViewSection"; footerTitle = "If enabled, a notification is triggered 30 mins before session expiry."; ObjectID = "3s3-yP-DD1"; */
 "3s3-yP-DD1.footerTitle" = "If enabled, a notification is triggered 30 mins before session expiry.";
 
 /* Class = "UITableViewSection"; headerTitle = "Notifications"; ObjectID = "3s3-yP-DD1"; */
-"3s3-yP-DD1.headerTitle" = "Notifications";
+"3s3-yP-DD1.headerTitle" = "Notificaciones";
 
 /* Class = "UILabel"; text = "Find your institute"; ObjectID = "4I8-Zx-Jlu"; */
 "4I8-Zx-Jlu.text" = "Find your institute";
 
 /* Class = "UILabel"; text = "TITLE"; ObjectID = "5Jq-bB-2yj"; */
-"5Jq-bB-2yj.text" = "TITLE";
+"5Jq-bB-2yj.text" = "TÍTULO";
 
 /* Class = "UIViewController"; title = "Connection Log"; ObjectID = "6VC-nm-qd4"; */
 "6VC-nm-qd4.title" = "Connection Log";
@@ -126,28 +126,28 @@
 "s2f-33-PqJ.text" = "Authenticate with credentials";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "tWc-Vs-nt9"; */
-"tWc-Vs-nt9.text" = "Label";
+"tWc-Vs-nt9.text" = "Etiqueta";
 
 /* Class = "UIButton"; normalTitle = "Renew Session"; ObjectID = "tqm-gx-WSD"; */
-"tqm-gx-WSD.normalTitle" = "Renew Session";
+"tqm-gx-WSD.normalTitle" = "Renovar Sesión";
 
 /* Class = "UILabel"; text = "Connection Log"; ObjectID = "vzv-dJ-o0C"; */
-"vzv-dJ-o0C.text" = "Connection Log";
+"vzv-dJ-o0C.text" = "Registro de Conexión";
 
 /* Class = "UITableViewController"; title = "Credentials"; ObjectID = "w1E-Zl-X3w"; */
-"w1E-Zl-X3w.title" = "Credentials";
+"w1E-Zl-X3w.title" = "Credenciales";
 
 /* Class = "UITableViewSection"; footerTitle = "Changes to this option will take effect from the next connection onwards."; ObjectID = "wTW-Kc-Fcu"; */
 "wTW-Kc-Fcu.footerTitle" = "Changes to this option will take effect from the next connection onwards.";
 
 /* Class = "UITableViewSection"; headerTitle = "Options"; ObjectID = "wTW-Kc-Fcu"; */
-"wTW-Kc-Fcu.headerTitle" = "Options";
+"wTW-Kc-Fcu.headerTitle" = "Opciones";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "ye3-jM-K8f"; */
-"ye3-jM-K8f.text" = "Label";
+"ye3-jM-K8f.text" = "Etiqueta";
 
 /* Class = "UITableViewSection"; footerTitle = "For license information, please see the source code."; ObjectID = "zZ8-eL-KFl"; */
 "zZ8-eL-KFl.footerTitle" = "For license information, please see the source code.";
 
 /* Class = "UITableViewSection"; headerTitle = "About"; ObjectID = "zZ8-eL-KFl"; */
-"zZ8-eL-KFl.headerTitle" = "About";
+"zZ8-eL-KFl.headerTitle" = "Acerca de";

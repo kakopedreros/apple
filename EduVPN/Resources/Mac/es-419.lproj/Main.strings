@@ -9,22 +9,22 @@
 "1b7-l0-nxx.title" = "Find";
 
 /* Class = "NSTextFieldCell"; title = "PROFILE"; ObjectID = "1fm-Bd-XJY"; */
-"1fm-Bd-XJY.title" = "PROFILE";
+"1fm-Bd-XJY.title" = "PERFIL";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1sp-sM-bBI"; */
 "1sp-sM-bBI.title" = "Text Cell";
 
 /* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "2oI-Rn-ZJC"; */
-"2oI-Rn-ZJC.title" = "Transformations";
+"2oI-Rn-ZJC.title" = "Transformaciones";
 
 /* Class = "NSTextFieldCell"; title = "Configuration:"; ObjectID = "364-yq-NkN"; */
-"364-yq-NkN.title" = "Configuration:";
+"364-yq-NkN.title" = "Configuración:";
 
 /* Class = "NSMenu"; title = "Spelling"; ObjectID = "3IN-sU-3Bg"; */
 "3IN-sU-3Bg.title" = "Spelling";
 
 /* Class = "NSTextFieldCell"; title = "Duration"; ObjectID = "3JI-ZE-b2R"; */
-"3JI-ZE-b2R.title" = "Duration";
+"3JI-ZE-b2R.title" = "Duración";
 
 /* Class = "NSTextFieldCell"; title = "Credentials"; ObjectID = "3be-TK-Y45"; */
 "3be-TK-Y45.title" = "Credentials";
@@ -87,7 +87,7 @@
 "Be3-30-v9h.title" = "Connect";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
-"DVo-aG-piG.title" = "Close";
+"DVo-aG-piG.title" = "Cerrar";
 
 /* Class = "NSMenuItem"; title = "Save and use this password"; ObjectID = "Dgd-HI-A8B"; */
 "Dgd-HI-A8B.title" = "Save and use this password";

@@ -39,7 +39,7 @@
 		6F36A71F24B5A36E00BA8F5E /* MainSecureInternetSectionHeaderCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F36A71E24B5A36E00BA8F5E /* MainSecureInternetSectionHeaderCell.swift */; };
 		6F36A79B24B6ED5D00BA8F5E /* SearchViewController+macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F36A79A24B6ED5D00BA8F5E /* SearchViewController+macOS.swift */; };
 		6F36A79D24B6F5BA00BA8F5E /* MainViewController+macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F36A79C24B6F5BA00BA8F5E /* MainViewController+macOS.swift */; };
-		6F42B1A624E333A800800FAC /* BuildFile in Sources */ = {isa = PBXBuildFile; };
+		6F42B1A624E333A800800FAC /* (null) in Sources */ = {isa = PBXBuildFile; };
 		6F4C1ED525D12D710042AD95 /* SharedTunnelOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F4C1ED425D12D710042AD95 /* SharedTunnelOptions.swift */; };
 		6F4C1ED625D12D710042AD95 /* SharedTunnelOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F4C1ED425D12D710042AD95 /* SharedTunnelOptions.swift */; };
 		6F50408D254C33C50071AA66 /* ConnectionViewModel+SupportContact.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F50408C254C33C50071AA66 /* ConnectionViewModel+SupportContact.swift */; };
@@ -315,6 +315,10 @@
 		4AC84CAD236B6E2000932B89 /* Developer-macOS.xcconfig.appforce1-template */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Developer-macOS.xcconfig.appforce1-template"; sourceTree = "<group>"; };
 		4AD5688C238491FA00EC0ABD /* FileServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileServiceTests.swift; sourceTree = "<group>"; };
 		4AE763AB23DA4D1F00A98BCC /* main.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = main.yml; sourceTree = "<group>"; };
+		4D2B17762627D9CE005EBF34 /* es-419 */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-419"; path = "es-419.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		4D2B17772627D9D3005EBF34 /* es-419 */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-419"; path = "es-419.lproj/Main.strings"; sourceTree = "<group>"; };
+		4D2B17782627D9D5005EBF34 /* es-419 */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-419"; path = "es-419.lproj/Main.strings"; sourceTree = "<group>"; };
+		4D2B17792627D9D7005EBF34 /* es-419 */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-419"; path = "es-419.lproj/Main.strings"; sourceTree = "<group>"; };
 		50A9AFF70F5198CFDC331C40 /* Pods-EduVPNTunnelExtension.debug letsconnect.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EduVPNTunnelExtension.debug letsconnect.xcconfig"; path = "Target Support Files/Pods-EduVPNTunnelExtension/Pods-EduVPNTunnelExtension.debug letsconnect.xcconfig"; sourceTree = "<group>"; };
 		5853856E75D0EB88AA70492C /* Pods-eduVPN 2 iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-eduVPN 2 iOS.debug.xcconfig"; path = "Target Support Files/Pods-eduVPN 2 iOS/Pods-eduVPN 2 iOS.debug.xcconfig"; sourceTree = "<group>"; };
 		60326C2AC52B9FAED8B0FA88 /* Pods_EduVPN_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EduVPN_iOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -345,8 +349,8 @@
 		6F6562A225DA64D100ED3ECC /* PredefinedProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredefinedProvider.swift; sourceTree = "<group>"; };
 		6F71FBB7249B54490010D0FE /* DiscoveryData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoveryData.swift; sourceTree = "<group>"; };
 		6F71FBBC249CCE980010D0FE /* DiscoveryDataFetcher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DiscoveryDataFetcher.swift; sourceTree = "<group>"; };
-		6F750C9624975A4300AF2C04 /* eduVPN.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = eduVPN.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		6F750D2124975B9B00AF2C04 /* eduVPN.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = eduVPN.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F750C9624975A4300AF2C04 /* eduVPN.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = eduVPN.app; path = .app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F750D2124975B9B00AF2C04 /* eduVPN.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = eduVPN.app; path = .app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F7B63EF2500FD7300FB154A /* StatusItemController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatusItemController.swift; sourceTree = "<group>"; };
 		6F7B63F125022AAE00FB154A /* LaunchAtLoginHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchAtLoginHelper.swift; sourceTree = "<group>"; };
 		6F7B643D2502A18C00FB154A /* ConnectionInfoHeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConnectionInfoHeaderView.swift; sourceTree = "<group>"; };
@@ -1330,6 +1334,7 @@
 				Base,
 				nl,
 				de,
+				"es-419",
 			);
 			mainGroup = 4AAC1F6D1F2D0E3400DD0252;
 			productRefGroup = 4AAC1F771F2D0E3400DD0252 /* Products */;
@@ -1823,7 +1828,7 @@
 				6F4C1ED625D12D710042AD95 /* SharedTunnelOptions.swift in Sources */,
 				6F8AEE7925E6D508001A603B /* StatusItemConnectionInfoHelper.swift in Sources */,
 				6F50408D254C33C50071AA66 /* ConnectionViewModel+SupportContact.swift in Sources */,
-				6F42B1A624E333A800800FAC /* BuildFile in Sources */,
+				6F42B1A624E333A800800FAC /* (null) in Sources */,
 				6FEF313D24A746AD0026C786 /* AuthState.swift in Sources */,
 				C7DB4BA4247FC243009932B1 /* ConnectionViewModel.swift in Sources */,
 				C7DB4C04248055D6009932B1 /* Moya+Promise.swift in Sources */,
@@ -1989,6 +1994,7 @@
 			children = (
 				342B9CBA228ED02E00C006D7 /* Base */,
 				AAFC2E99246BECA000FEB0F3 /* de */,
+				4D2B17792627D9D7005EBF34 /* es-419 */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -1997,6 +2003,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				6FE41C5125419D2F003DCF74 /* Base */,
+				4D2B17772627D9D3005EBF34 /* es-419 */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -2005,6 +2012,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				C7DB4C6C248064BC009932B1 /* Base */,
+				4D2B17782627D9D5005EBF34 /* es-419 */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -2015,6 +2023,7 @@
 				C7DB4C91248067EE009932B1 /* Base */,
 				C7DB4C92248067EE009932B1 /* nl */,
 				C7DB4C93248067EE009932B1 /* de */,
+				4D2B17762627D9CE005EBF34 /* es-419 */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
