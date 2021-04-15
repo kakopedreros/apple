@@ -1,0 +1,153 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "0Ga-3K-NHd"; */
+"0Ga-3K-NHd.text" = "Title";
+
+/* Class = "UILabel"; text = "Status detail"; ObjectID = "37x-Tc-jAN"; */
+"37x-Tc-jAN.text" = "Status detail";
+
+/* Class = "UITableViewSection"; footerTitle = "If enabled, a notification is triggered 30 mins before session expiry."; ObjectID = "3s3-yP-DD1"; */
+"3s3-yP-DD1.footerTitle" = "If enabled, a notification is triggered 30 mins before session expiry.";
+
+/* Class = "UITableViewSection"; headerTitle = "Notifications"; ObjectID = "3s3-yP-DD1"; */
+"3s3-yP-DD1.headerTitle" = "Notifications";
+
+/* Class = "UILabel"; text = "Find your institute"; ObjectID = "4I8-Zx-Jlu"; */
+"4I8-Zx-Jlu.text" = "Find your institute";
+
+/* Class = "UILabel"; text = "TITLE"; ObjectID = "5Jq-bB-2yj"; */
+"5Jq-bB-2yj.text" = "TITLE";
+
+/* Class = "UIViewController"; title = "Connection Log"; ObjectID = "6VC-nm-qd4"; */
+"6VC-nm-qd4.title" = "Connection Log";
+
+/* Class = "UILabel"; text = "Version number"; ObjectID = "6Vz-Gx-mbB"; */
+"6Vz-Gx-mbB.text" = "Version number";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "6lP-sE-d7n"; */
+"6lP-sE-d7n.text" = "Title";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "6zQ-9H-MHL"; */
+"6zQ-9H-MHL.text" = "Profile";
+
+/* Class = "UITextField"; placeholder = "Server URL"; ObjectID = "ACm-mB-DCn"; */
+"ACm-mB-DCn.placeholder" = "Server URL";
+
+/* Class = "UILabel"; text = "Connect using TCP only"; ObjectID = "Axm-hd-YwD"; */
+"Axm-hd-YwD.text" = "Connect using TCP only";
+
+/* Class = "UILabel"; text = "https://github.com/eduvpn/apple"; ObjectID = "AyI-A2-tvn"; */
+"AyI-A2-tvn.text" = "https://github.com/eduvpn/apple";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ayi-Q2-5Y0"; */
+"Ayi-Q2-5Y0.text" = "Label";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "BHJ-Wa-SfV"; */
+"BHJ-Wa-SfV.text" = "Username";
+
+/* Class = "UILabel"; text = "Profile name"; ObjectID = "FSj-Ul-INY"; */
+"FSj-Ul-INY.text" = "Profile name";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "G3K-Yo-Vb7"; */
+"G3K-Yo-Vb7.text" = "Title";
+
+/* Class = "UILabel"; text = "Notify before session expiry"; ObjectID = "HSr-1W-y5a"; */
+"HSr-1W-y5a.text" = "Notify before session expiry";
+
+/* Class = "UIButton"; normalTitle = "Add Server"; ObjectID = "JGc-id-Tai"; */
+"JGc-id-Tai.normalTitle" = "Add Server";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Rfe-gF-Wx9"; */
+"Rfe-gF-Wx9.text" = "Label";
+
+/* Class = "UITableViewSection"; headerTitle = "Import"; ObjectID = "RsF-JL-0Za"; */
+"RsF-JL-0Za.headerTitle" = "Import";
+
+/* Class = "UITableViewSection"; headerTitle = "Logging"; ObjectID = "UOS-N7-Rcv"; */
+"UOS-N7-Rcv.headerTitle" = "Logging";
+
+/* Class = "UIButton"; normalTitle = "Import OpenVPN Config (.ovpn)"; ObjectID = "VdR-Jo-2Do"; */
+"VdR-Jo-2Do.normalTitle" = "Import OpenVPN Config (.ovpn)";
+
+/* Class = "UITableViewSection"; headerTitle = "Credentials"; ObjectID = "WTO-Kv-5dc"; */
+"WTO-Kv-5dc.headerTitle" = "Credentials";
+
+/* Class = "UITextField"; placeholder = "Enter username"; ObjectID = "Xyl-tP-5ov"; */
+"Xyl-tP-5ov.placeholder" = "Enter username";
+
+/* Class = "UILabel"; text = "Source code"; ObjectID = "Zsk-gl-9Hv"; */
+"Zsk-gl-9Hv.text" = "Source code";
+
+/* Class = "UILabel"; text = "App name"; ObjectID = "clE-jt-jh6"; */
+"clE-jt-jh6.text" = "App name";
+
+/* Class = "UILabel"; text = "Server Name"; ObjectID = "dCe-Ed-8NS"; */
+"dCe-Ed-8NS.text" = "Server Name";
+
+/* Class = "UIButton"; normalTitle = "Change Location"; ObjectID = "eUM-71-kHR"; */
+"eUM-71-kHR.normalTitle" = "Change Location";
+
+/* Class = "UITableViewController"; title = "Settings"; ObjectID = "eWu-AC-nmd"; */
+"eWu-AC-nmd.title" = "Settings";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "jBQ-g6-fH8"; */
+"jBQ-g6-fH8.text" = "Title";
+
+/* Class = "UISearchBar"; placeholder = "Search for your institute..."; ObjectID = "jE7-4D-h8q"; */
+"jE7-4D-h8q.placeholder" = "Search for your institute...";
+
+/* Class = "UILabel"; text = "Server Address"; ObjectID = "jkQ-7C-0j3"; */
+"jkQ-7C-0j3.text" = "Server Address";
+
+/* Class = "UITextField"; placeholder = "Enter password"; ObjectID = "jzL-zp-lO8"; */
+"jzL-zp-lO8.placeholder" = "Enter password";
+
+/* Class = "UILabel"; text = "Connection Info"; ObjectID = "mh2-4E-W3r"; */
+"mh2-4E-W3r.text" = "Connection Info";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "ohm-KC-Zgw"; */
+"ohm-KC-Zgw.text" = "Password";
+
+/* Class = "UILabel"; text = "No results. Please check your search query."; ObjectID = "p7f-Cm-ntA"; */
+"p7f-Cm-ntA.text" = "No results. Please check your search query.";
+
+/* Class = "UIButton"; normalTitle = "Set Credentials"; ObjectID = "pFK-Hw-RAM"; */
+"pFK-Hw-RAM.normalTitle" = "Set Credentials";
+
+/* Class = "UITableViewController"; title = "Connection Info"; ObjectID = "pPW-Bx-DVf"; */
+"pPW-Bx-DVf.title" = "Connection Info";
+
+/* Class = "UITableViewSection"; footerTitle = "If this configuration needs authentication with username and password, please provide these credentials."; ObjectID = "paw-19-SRE"; */
+"paw-19-SRE.footerTitle" = "If this configuration needs authentication with username and password, please provide these credentials.";
+
+/* Class = "UILabel"; text = "Not Connected"; ObjectID = "rYc-lk-och"; */
+"rYc-lk-och.text" = "Not Connected";
+
+/* Class = "UILabel"; text = "Authenticate with credentials"; ObjectID = "s2f-33-PqJ"; */
+"s2f-33-PqJ.text" = "Authenticate with credentials";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tWc-Vs-nt9"; */
+"tWc-Vs-nt9.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Renew Session"; ObjectID = "tqm-gx-WSD"; */
+"tqm-gx-WSD.normalTitle" = "Renew Session";
+
+/* Class = "UILabel"; text = "Connection Log"; ObjectID = "vzv-dJ-o0C"; */
+"vzv-dJ-o0C.text" = "Connection Log";
+
+/* Class = "UITableViewController"; title = "Credentials"; ObjectID = "w1E-Zl-X3w"; */
+"w1E-Zl-X3w.title" = "Credentials";
+
+/* Class = "UITableViewSection"; footerTitle = "Changes to this option will take effect from the next connection onwards."; ObjectID = "wTW-Kc-Fcu"; */
+"wTW-Kc-Fcu.footerTitle" = "Changes to this option will take effect from the next connection onwards.";
+
+/* Class = "UITableViewSection"; headerTitle = "Options"; ObjectID = "wTW-Kc-Fcu"; */
+"wTW-Kc-Fcu.headerTitle" = "Options";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ye3-jM-K8f"; */
+"ye3-jM-K8f.text" = "Label";
+
+/* Class = "UITableViewSection"; footerTitle = "For license information, please see the source code."; ObjectID = "zZ8-eL-KFl"; */
+"zZ8-eL-KFl.footerTitle" = "For license information, please see the source code.";
+
+/* Class = "UITableViewSection"; headerTitle = "About"; ObjectID = "zZ8-eL-KFl"; */
+"zZ8-eL-KFl.headerTitle" = "About";
